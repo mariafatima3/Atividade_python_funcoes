@@ -1,0 +1,2 @@
+Valores antes da troca: numero1 = 10, numero2 = 5
+Valores depois da troca: numero1 = 5, numero2 = 10
