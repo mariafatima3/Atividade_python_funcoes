@@ -1,0 +1,6 @@
+Valor 1: True
+Valor 2: False
+AND: False
+OR: True
+NOT Valor 1: False
+NOT Valor 2: True
