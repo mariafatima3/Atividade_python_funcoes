@@ -1,0 +1,3 @@
+Salário mensal: R$ 1500.00
+Meses trabalhados: 24
+Salário anual: R$ 36000.00
